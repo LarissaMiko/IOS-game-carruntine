@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "SchnittigeSchneckeSmaller1.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "SchnittigeSchnecke1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "SchnittigeSchnecke1-1.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

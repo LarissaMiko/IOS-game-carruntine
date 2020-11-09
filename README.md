@@ -32,7 +32,7 @@ A short overview of the most important parts in the code of the application
 
 ### Developed by:
 
-Chau Duong
-Dominik Runge
-Sascha Siemens
+Chau Duong,\
+Dominik Runge,\
+Sascha Siemens,\
 Larissa Mikolaschek
